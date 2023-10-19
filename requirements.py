@@ -5,6 +5,7 @@ pydeck
 yfinance
 cufflinks
 plotly
+plotly.express
 scikit-learn
 shap
 streamlit_echarts
