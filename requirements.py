@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+pydeck
+yfinance
+cufflinks
+plotly.express
+scikit-learn
+shap
+streamlit_echarts
+plotly
+streamlit_card
+streamlit_extras
+streamlit_folium
