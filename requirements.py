@@ -4,11 +4,10 @@ numpy
 pydeck
 yfinance
 cufflinks
-plotly.express
+plotly
 scikit-learn
 shap
 streamlit_echarts
-plotly
 streamlit_card
 streamlit_extras
 streamlit_folium
