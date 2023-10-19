@@ -1,2 +1,2 @@
 # Novus-Retail
-Cycle automated
+Automated Cycle 
